@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cv-app
-        image: gcr.io/vertex-ai-nareshit/imgwebapp:v1
+        image: gcr.io/leaf3-422504/imgwebapp:v1
         ports:
         - containerPort: 8501
